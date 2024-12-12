@@ -1,7 +1,6 @@
 # 💫 About Me:
-
-Memori diperbarui
-Here’s your updated profile description:
+# Hi 👋, I'm Rizqi Alif Permana Putra
+## A curious 🤓 front-end developer from Indonesia
 
 🤔 I’m looking for help with
 Heart disease prediction model optimization and deployment using machine learning.

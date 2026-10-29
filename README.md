@@ -56,9 +56,9 @@ Data Scientist and AI Engineer with a passion for leveraging machine learning an
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RizqiAlif09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RizqiAlif09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RizqiAlif09&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RizqiAlif09&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RizqiAlif09&theme=tokyonight&hide_border=true)
 
@@ -117,6 +117,6 @@ I'm always open to collaborating on exciting data science and AI projects. Feel 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=RizqiAlif09&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=RizqiAlif09&color=blue&style=flat-square)](https://github.com/RizqiAlif09)
 
 </div>
